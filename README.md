@@ -36,10 +36,10 @@ simple-llm-chat-app/
 
 ## How to run project:
 
-- ** https://github.com/saurabhslab/simple-llm-chat-app.git
-- **cd simple-llm-chat-app
-- **python -m venv venv
-- **source venv/bin/activate    # Windows: venv\Scripts\activate
-- **pip install -r requirements.txt
-- **echo "GOOGLE_API_KEY=your_gemini_api_key_here" > .env
-- **python app.py
+- https://github.com/saurabhslab/simple-llm-chat-app.git
+- cd simple-llm-chat-app
+- python -m venv venv
+- source venv/bin/activate    # Windows: venv\Scripts\activate
+- pip install -r requirements.txt
+- echo "GOOGLE_API_KEY=your_gemini_api_key_here" > .env
+- python app.py

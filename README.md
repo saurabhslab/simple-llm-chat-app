@@ -36,7 +36,7 @@ simple-llm-chat-app/
 
 ## How to run project:
 
-git clone https://github.com/your-username/hello-langchain-gemini.git
+https://github.com/saurabhslab/simple-llm-chat-app.git
 cd simple-llm-chat-app
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
